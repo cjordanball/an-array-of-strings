@@ -1,0 +1,32 @@
+body {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.container {
+	flex: 0.5;
+}
+h1 {
+	color: navy;
+	font-family: 'Montserrat';
+	font-weight: 400;
+	text-align: center;
+}
+.headline {
+	text-align: center;
+}
+article {
+	color: 'black';
+	font-family: 'Montserrat';
+	font-size: medium;
+	line-height: normal;
+	text-align: justify;
+}
+.emailSection {
+	color: 'pink';
+}
+a {
+	color: green;
+	text-decoration: none;
+}
