@@ -5,7 +5,7 @@ body {
 	align-items: center;
 }
 .container {
-	flex: 0.5;
+	flex: 0.8;
 }
 h1 {
 	color: navy;
@@ -16,15 +16,14 @@ h1 {
 .headline {
 	text-align: center;
 }
-article {
+article p {
 	color: 'black';
 	font-family: 'Montserrat';
-	font-size: medium;
+	font-size: 16px;
 	line-height: normal;
 	text-align: justify;
 }
 .emailSection {
-	color: 'pink';
 }
 a {
 	color: green;
